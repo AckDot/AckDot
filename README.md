@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AckDot
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @AckDot
+## 👀 I’m interested in web programming , mobile apps and machine learning
+## 🌱 I am currently learning kotlin and java.
+## 💞️ I am looking to collaborate on innovative challenges or projects. 
+## 📫 You can contact me at bobvo5736@gmail.com 🧐🍷.
 
 <!---
 AckDot/AckDot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
